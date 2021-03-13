@@ -1,6 +1,6 @@
 ### custom-hook-fetch-data
 
-Custom hook using [Axios](https://github.com/axios/axios) to get and post data to server.
+Custom hook using [Axios](https://github.com/axios/axios) to get and post method.
 
 ---------
 ##### Custom hook component `useAxiosData.js`
